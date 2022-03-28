@@ -1,5 +1,5 @@
 ## Hey 👋, This is Dennis Han
-[![Gmail Badge](https://img.shields.io/badge/-jackiestar7@outlook.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jackiestar7@outlook.com)](mailto:jackiestar7@outlook.com) [![Github Badge](https://img.shields.io/badge/-denniseniordev-grey?style=flat&logo=github&logoColor=white&link=https://github.com/denniseniordev/)](https://www.github.com/denniseniordev/) <p align='left'>Experienced Developer professional with a broad skill set for web application and blockchain system development</p><p align='left'> You can view my resume <a href='https://resume.io/r/G1HdZjQAQ ' target=_blank><u>here</u>.</a></p>
+[![Gmail Badge](https://img.shields.io/badge/-hd.dennishan@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:hd.dennishan@gmail.com)](mailto:hd.dennishan@gmail.com) [![Github Badge](https://img.shields.io/badge/-denniseniordev-grey?style=flat&logo=github&logoColor=white&link=https://github.com/denniseniordev/)](https://www.github.com/denniseniordev/) <p align='left'>Experienced Developer professional with a broad skill set for web application and blockchain system development</p><p align='left'> You can view my resume <a href='https://app.enhancv.com/r/817004e8' target=_blank><u>here</u>.</a></p>
 ### <h2> My Technologies <a id="user-content--profile-trophy" class="anchor" aria-hidden="true" href="https://github.com/tylerfyu"></svg></a>👨‍💻</g-emoji></h2>
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=Solidity)
 ![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=Rust)
@@ -32,4 +32,4 @@
 |---|---|---|---|
 
 ### <h2>Contact Me</h2>
-[![Outlook Badge](https://img.shields.io/badge/-jackiestar7@outlook.com-0078D4?style=flat-square&logo=MicrosoftOutlook&logoColor=white&link=mailto:jackiestar7@outlook.com)](mailto:jackiestar7@outlook.com)
+[![Outlook Badge](https://img.shields.io/badge/-jackiestar7@outlook.com-0078D4?style=flat-square&logo=MicrosoftOutlook&logoColor=white&link=mailto:jackiestar7@outlook.com)](mailto:jackiestar7@outlook.com) [![Gmail Badge](https://img.shields.io/badge/-hd.dennishan@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:hd.dennishan@gmail.com)](mailto:hd.dennishan@gmail.com)
